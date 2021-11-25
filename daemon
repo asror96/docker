@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "test-message" > /task/test-message.txt
+
+while (true); do
+  sleep 10
+done
